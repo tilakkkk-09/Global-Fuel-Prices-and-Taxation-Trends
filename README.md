@@ -137,5 +137,5 @@ The project provides a comparative view of global fuel prices and taxation trend
 ## Author
 
 **Tilak Tiwari**  
-BCA – Artificial Intelligence & Data Science  
+BCA  
 Medicaps University
