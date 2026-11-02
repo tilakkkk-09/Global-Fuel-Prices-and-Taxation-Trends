@@ -2,7 +2,6 @@
 
 A Tableau-based data analytics project exploring global fuel prices, crude oil trends, and fuel taxation across countries and regions from January 2020 to April 2026.
 
-> **Note:** Replace the screenshot placeholders in the `images/` folder with your actual Tableau screenshots. Keep the filenames the same so the images appear automatically in this README.
 
 ---
 
